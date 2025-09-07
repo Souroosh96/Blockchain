@@ -1,0 +1,16 @@
+# Ignore bin and abi files
+*.bin
+*.abi
+
+# Ignore json and env files
+*.json
+*.env
+
+# Ignore backup and temporary files
+*~
+
+# Ignore build directories
+node_modules/
+
+#Ignore specific files
+yarn.lock
